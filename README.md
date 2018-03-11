@@ -1,2 +1,5 @@
 # hello-world
-Learn 
+Learn
+
+Starting from scratch
+
