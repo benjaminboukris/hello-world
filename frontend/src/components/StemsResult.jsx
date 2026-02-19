@@ -22,7 +22,7 @@ function getStemKey(filename) {
 }
 
 export default function StemsResult({ result, onReset }) {
-  const { job_id, stems, download_url } = result;
+  const { job_id, stems } = result;
 
   return (
     <div className="result-card">

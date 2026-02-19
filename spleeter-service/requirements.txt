@@ -1,3 +1,5 @@
 spleeter==2.3.2
+tensorflow-cpu==2.5.3
+numpy==1.19.5
 flask==3.0.3
 flask-cors==4.0.1
